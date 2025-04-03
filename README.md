@@ -1,5 +1,6 @@
 ﻿# S1.02-Exceptions-Nivel2-ej1
  Proyecto Entrada - Manejo de excepciones al leer datos por teclado
+ 
 📄 Descripción - Enunciado del ejercicio
 Este proyecto consiste en crear una clase llamada Entrada,
 cuya función es manejar las excepciones más comunes que pueden ocurrir al leer datos desde el teclado usando la clase Scanner en Java.
