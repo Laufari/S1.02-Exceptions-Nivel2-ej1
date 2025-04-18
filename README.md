@@ -57,3 +57,5 @@ git commit -m "Añadir nueva funcionalidad"
 Sube los cambios a tu rama:
 git push origin feature/NuevaFuncionalidad
 Haz un pull request explicando los cambios realizados
+
+Laura Farina
